@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.8)
+project(S2_TD02)
+
+add_executable(td02 src/main.cpp)
+target_compile_features(td02 PRIVATE cxx_std_20)
