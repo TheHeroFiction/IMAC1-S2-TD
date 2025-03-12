@@ -1,8 +1,0 @@
-[
-{
-  "directory": "D:/IMAC/PROG_ALGO/S2/TD02/build",
-  "command": "C:\\Winlibs\\mingw64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\td02.dir\\src\\main.cpp.obj -c D:\\IMAC\\PROG_ALGO\\S2\\TD02\\src\\main.cpp",
-  "file": "D:/IMAC/PROG_ALGO/S2/TD02/src/main.cpp",
-  "output": "CMakeFiles/td02.dir/src/main.cpp.obj"
-}
-]
