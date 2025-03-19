@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.8)
+project(S2_TD03)
+
+add_executable(td03_exo1 src/main.cpp src/td03_exo1.cpp)
+target_compile_features(td03_exo1 PRIVATE cxx_std_20)
+
+add_executable(td03_exo2 src/main.cpp src/td03_exo2.cpp src/td03_exo1.cpp)
+target_compile_features(td03_exo2 PRIVATE cxx_std_20)
+
+
