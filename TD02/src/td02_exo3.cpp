@@ -19,3 +19,8 @@ int operator_precedence(Operator const op)
         return 3;
     }
 }
+
+std::vector<Token> infix_to_npi_tokens(std::string const& expression)
+{
+
+}
