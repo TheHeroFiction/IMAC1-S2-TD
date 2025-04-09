@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.8)
-project(S2_TD04)
+project(S2_TD05)
 
 add_executable(td05_exo1 src/td05_exo1.cpp)
 target_compile_features(td05_exo1 PRIVATE cxx_std_20)
